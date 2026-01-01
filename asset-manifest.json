@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/collaborative-note-app/static/css/main.e6c13ad2.css",
+    "main.js": "/collaborative-note-app/static/js/main.e6186f09.js",
+    "static/js/453.20359781.chunk.js": "/collaborative-note-app/static/js/453.20359781.chunk.js",
+    "index.html": "/collaborative-note-app/index.html",
+    "main.e6c13ad2.css.map": "/collaborative-note-app/static/css/main.e6c13ad2.css.map",
+    "main.e6186f09.js.map": "/collaborative-note-app/static/js/main.e6186f09.js.map",
+    "453.20359781.chunk.js.map": "/collaborative-note-app/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e6186f09.js"
+  ]
+}
